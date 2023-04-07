@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nprs-main-website/static/css/main.1be3ad14.css",
+    "main.js": "/nprs-main-website/static/js/main.d644301e.js",
+    "static/js/787.ec2d9fdf.chunk.js": "/nprs-main-website/static/js/787.ec2d9fdf.chunk.js",
+    "static/media/car.svg": "/nprs-main-website/static/media/car.683d212a6d17b94b8a832d569ca1504c.svg",
+    "index.html": "/nprs-main-website/index.html",
+    "main.1be3ad14.css.map": "/nprs-main-website/static/css/main.1be3ad14.css.map",
+    "main.d644301e.js.map": "/nprs-main-website/static/js/main.d644301e.js.map",
+    "787.ec2d9fdf.chunk.js.map": "/nprs-main-website/static/js/787.ec2d9fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be3ad14.css",
+    "static/js/main.d644301e.js"
+  ]
+}
